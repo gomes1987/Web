@@ -32,8 +32,7 @@ const Container = styled.div`
     gap: 2rem;
     justify-content: space-around;
     background-color: #fff;
-    border-radius: 1rem;
-    box-shadow: 0.1rem 0.1rem  .2rem .1rem #666;
+  
 `
 
 const Box = styled.div`
